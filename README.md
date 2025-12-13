@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm André
 
-<!--
-**anrfreitas/anrfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CTO at [Instructionly](https://instructionly.io) — building AI instruction management for development teams.
 
-Here are some ideas to get you started:
+18 years in software engineering, 6 leading teams. Now making sure AI follows your team's playbook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm building
+
+AI assistants are powerful, but without guidance they produce inconsistent code. Teams lose knowledge between sessions and waste time correcting the same mistakes.
+
+Instructionly fixes this—we let teams centralize coding standards and deliver them to any AI tool in real-time. Works with Claude, Cursor, Windsurf, ChatGPT, and anything supporting MCP.
+
+---
+
+[Website](https://instructionly.io) · [LinkedIn](https://linkedin.com/in/anrfreitas) · [Docs](https://docs.instructionly.io)

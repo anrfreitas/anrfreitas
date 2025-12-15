@@ -12,4 +12,4 @@ Instructionly fixes this—we let teams centralize coding standards and deliver 
 
 ---
 
-[Website](https://instructionly.io) · [LinkedIn](https://linkedin.com/in/anrfreitas) · [Docs](https://docs.instructionly.io)
+[Website](https://instructionly.io) · [LinkedIn](https://linkedin.com/in/anrfreitas) · [Blog](https://blog.instructionly.io) · [Docs](https://docs.instructionly.io)

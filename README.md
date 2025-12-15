@@ -1,6 +1,6 @@
 ### Hey, I'm André
 
-Founder & CTO at [Instructionly](https://instructionly.io) — One rulebook for every AI
+Founder at [Instructionly](https://instructionly.io) — One rulebook for every AI
 
 18 years in software engineering, 6 leading teams. Now making sure AI follows your team's playbook.
 
